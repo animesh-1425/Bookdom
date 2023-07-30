@@ -1,0 +1,16 @@
+body{
+    background-color: #303179;
+}
+.btn1{
+    
+    background-color: rgb(50, 50, 210);
+    color: white;
+}
+.btn2{
+  
+    background-color: rgb(233, 49, 28);
+    color: white;
+}
+.content{
+    height: 100vh;
+}
